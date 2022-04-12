@@ -33,6 +33,7 @@
 <img style="margin: 10px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://miro.medium.com/max/1400/1*8ETcaw-gA1dYW4EFxqGK3w.png" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://img.favpng.com/16/12/14/mongodb-database-clip-art-computer-icons-nosql-png-favpng-DBdwbhycTnwNvHA06hqJMBbmE.jpg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://i.pinimg.com/564x/c5/fe/79/c5fe79c0aa620269cf810c7be4c9698d.jpg" alt="Redis" height="50" />
 </div>  
 
 

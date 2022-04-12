@@ -30,7 +30,8 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://img.favpng.com/16/12/14/mongodb-database-clip-art-computer-icons-nosql-png-favpng-DBdwbhycTnwNvHA06hqJMBbmE.jpg" alt="MongoDB" height="50" />  
 </div>  

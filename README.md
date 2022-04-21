@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a startup project  
   
 
-- 🌱 I’m currently learning Amazon Aws  
+- 🌱 I’m currently learning microservices  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  

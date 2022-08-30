@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Said, a backend developer 👨‍💻 working remotely since 2021🚀</div>  
+
+### <div align="center"><h1>Hi I'm Said, a backend developer 👨‍💻 working remotely since 2021🚀</h1></div>  
   
 
 - 🔭 I’m currently working on a startup project  

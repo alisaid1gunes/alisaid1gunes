@@ -31,6 +31,7 @@
 <img style="margin: 10px" src="https://miro.medium.com/max/1400/1*8ETcaw-gA1dYW4EFxqGK3w.png" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://img.favpng.com/16/12/14/mongodb-database-clip-art-computer-icons-nosql-png-favpng-DBdwbhycTnwNvHA06hqJMBbmE.jpg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="50" />
+ <img style="margin: 10px" src="https://graphql.org/img/og-image.png" alt="GraphQL" height="50" />
 <img style="margin: 10px" src="https://www.indydiary.com/wp-content/uploads/2021/04/redis-server.webp" alt="Redis" height="50" />
 <img style="margin: 10px" src="https://nathanlabadie.com/content/images/2020/10/elastic-elasticsearch-logo-vector.png" alt="ElasticSearch" height="50" />
 </div>  

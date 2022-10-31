@@ -3,13 +3,13 @@
 ### <div align="center"><h1>Hi I'm Said, a backend developer 👨‍💻 working remotely since 2021🚀</h1></div>  
   
 
-- 🔭 I’m currently working on a startup project  
+- 🔭 I’m currently working on  [ShipEntegra](https://www.shipentegra.com/) 
   
 
 - 🌱 I’m currently learning microservices  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Java and NodeJS  technologies  
   
 
 - ⚡ Fun fact: My favorite thing in this life is biscuit cake  
